@@ -9,7 +9,7 @@ published: true
 post_date: 2017-04-14 17:01:32
 ---
 
-		<p>Protect Your Assets</p><p>Protect Your Assets</p><p>Critical Path Security</p>		
+		<p>Protect Your Assets</p><p>Protect Your Assets</p><p>Critical Path Security</p><p>Critical Path Security</p>		
 			<a href="/services/vulnerability-assessment/">
 						Vulnerability Assessment
 					</a>
