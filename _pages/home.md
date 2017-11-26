@@ -16,7 +16,7 @@ post_date: 2017-04-14 17:01:32
 			<a href="/services/incident-response/">
 						Incident Response
 					</a>
-		<p>Compliance Audits</p><p>Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.</p><p>Forensic Analysis</p><p>Detect fraudulent behavioral patterns to identify and retrace the steps of cyber-criminals gaining a clear overview of the breach.</p>		
+		<p>Compliance Audits</p><p>Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.</p><p>Forensic Analysis</p><p>Detect fraudulent behavioral patterns to identify and retrace the steps of cyber-criminals, gaining a clear overview of the breach. </p>		
 			<canvas id="canvas"></canvas>
 <style>canvas {
   background: #232323;
