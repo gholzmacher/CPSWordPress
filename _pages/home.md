@@ -22,7 +22,7 @@ post_date: 2017-04-14 17:01:32
 													<h3>
 								Bridging the Gap							</h3>
 								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
-													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
+													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
 								Learn More							</a>
 													<h3>
 								Compliance Audits							</h3>
