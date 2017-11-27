@@ -64,3 +64,12 @@ post_date: 2017-04-14 17:01:32
 canvas {
   background: #232323;
 }</style>
+						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
+						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
+								<cite>John DoeCEO</cite>			
+						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
+						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
+								<cite>John DoeCEO</cite>			
+						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
+						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
+								<cite>John DoeCEO</cite>
