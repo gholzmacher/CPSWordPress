@@ -18,10 +18,10 @@ post_date: 2017-04-14 17:01:32
 					</a>
 													<h3>
 								Virtual CISO							</h3>
-								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled							
+								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
 													<h3>
-								Improve Your Security Posture							</h3>
-								Critical Path Security provides proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
+								Bridging the Gap							</h3>
+								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
 													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
 								Learn More							</a>
 													<h3>
