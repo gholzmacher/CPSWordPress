@@ -59,11 +59,6 @@ post_date: 2017-04-14 17:01:32
 								Critical Path Security provides proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
 													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
 								Learn More							</a>
-			<canvas id="canvas"></canvas>
-<style>
-canvas {
-  background: #232323;
-}</style>
 						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
 						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
 								<cite>John DoeCEO</cite>			
