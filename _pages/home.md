@@ -77,11 +77,11 @@ post_date: 2017-04-14 17:01:32
 								Learn More							</a>
 													<h3>
 								Forensic Analysis							</h3>
-								Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.							
+								Detect fraudulent behavioral patterns to identify and retrace the steps of the most advanced cyber criminals.							
 													<h3>
-								Improve Your Security Posture							</h3>
-								Critical Path Security provides proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
-													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
+								Contain Costs							</h3>
+								Get a clear image of a breach to mitigate future risks of repeat occurrences. 							
+													<a href="https://www.criticalpathsecurity.com/services/forensic-analysis/">
 								Learn More							</a>
 						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
 						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
