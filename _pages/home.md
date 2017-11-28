@@ -32,7 +32,7 @@ post_date: 2017-04-14 17:01:32
 								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
 													<h3>
 								Bridge the Gap							</h3>
-								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage your information security strategy.							
+								On-demand access to seasoned experts, who develop, implement, and manage your information security strategy.							
 													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
 								Learn More							</a>
 													<h3>
@@ -40,7 +40,7 @@ post_date: 2017-04-14 17:01:32
 								Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.							
 													<h3>
 								Improve Your Security Posture							</h3>
-								Critical Path Security provides proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
+								Proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
 													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
 								Learn More							</a>
 													<h3>
@@ -53,7 +53,7 @@ post_date: 2017-04-14 17:01:32
 								Learn More							</a>
 													<h3>
 								Penetration Testing							</h3>
-								Even sophisticated security strategies will be ineffective if people, processes, and technology aren’t tested often to identify and remediate vulnerabilities.							
+								Even sophisticated security strategies can be ineffective if people, processes, and technology aren’t tested regularly.							
 													<h3>
 								Reduce Liability							</h3>
 								Attempting to breach your security infrastructure can expose critical vulnerabilities.							
@@ -61,17 +61,17 @@ post_date: 2017-04-14 17:01:32
 								Learn More							</a>
 													<h3>
 								Managed Security							</h3>
-								With an average of 4,000 attacks occurring daily, information security is now critical to the success of every business.							
+								With 4,000 attacks occurring daily, information security is now critical to the success of every business.							
 													<h3>
 								Specialized Expertise							</h3>
-								Our Managed Security Service combines expert knowledge and decades of experience with innovative technology to strengthen your company’s security posture. 							
+								We combine expert knowledge and decades of experience with innovative technology. 							
 													<a href="https://www.criticalpathsecurity.com/managed-security/security-monitoring-and-management/">
 								Learn More							</a>
 													<h3>
 								Incident Response							</h3>
 								Limit damage and prevent any further damage from happening.							
 													<h3>
-								Proven Methodology							</h3>
+								Contain Cost							</h3>
 								Our Incident Response service follows the process recommended by the SANS Institute.							
 													<a href="https://www.criticalpathsecurity.com/services/incident-response/">
 								Learn More							</a>
@@ -79,7 +79,7 @@ post_date: 2017-04-14 17:01:32
 								Forensic Analysis							</h3>
 								Detect fraudulent behavioral patterns to identify and retrace the steps of the most advanced cyber criminals.							
 													<h3>
-								Contain Costs							</h3>
+								Proven Methodology							</h3>
 								Get a clear image of a breach to mitigate future risks of repeat occurrences. 							
 													<a href="https://www.criticalpathsecurity.com/services/forensic-analysis/">
 								Learn More							</a>
