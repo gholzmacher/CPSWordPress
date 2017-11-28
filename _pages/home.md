@@ -31,8 +31,8 @@ post_date: 2017-04-14 17:01:32
 								Virtual CISO							</h3>
 								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
 													<h3>
-								Bridging the Gap							</h3>
-								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
+								Bridge the Gap							</h3>
+								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage your information security strategy.							
 													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
 								Learn More							</a>
 													<h3>
@@ -45,35 +45,35 @@ post_date: 2017-04-14 17:01:32
 								Learn More							</a>
 													<h3>
 								Vulnerability Assessments							</h3>
-								Illustrates the most likely risks your business faces by evaluating currently deployed security technologies. 							
+								Illustrate the most likely risks your business faces by evaluating currently deployed security technologies. 							
 													<h3>
-								Bridging the Gap							</h3>
-								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
-													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
+								Don't Guess, Know.							</h3>
+								Identify risks as well as improve overall practices to enhance your company’s security program.							
+													<a href="https://www.criticalpathsecurity.com/services/vulnerability-assessment/">
 								Learn More							</a>
 													<h3>
 								Penetration Testing							</h3>
-								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
+								Even sophisticated security strategies will be ineffective if people, processes, and technology aren’t tested often to identify and remediate vulnerabilities.							
 													<h3>
-								Bridging the Gap							</h3>
-								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
-													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
+								Reduce Liability							</h3>
+								Attempting to breach your security infrastructure can expose critical vulnerabilities.							
+													<a href="https://www.criticalpathsecurity.com/services/penetration-testing/">
 								Learn More							</a>
 													<h3>
 								Managed Security							</h3>
-								Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.							
+								With an average of 4,000 attacks occurring daily, information security is now critical to the success of every business.							
 													<h3>
-								Improve Your Security Posture							</h3>
-								Critical Path Security provides proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
-													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
+								Specialized Expertise							</h3>
+								Our Managed Security Service combines expert knowledge and decades of experience with innovative technology to strengthen your company’s security posture. 							
+													<a href="https://www.criticalpathsecurity.com/managed-security/security-monitoring-and-management/">
 								Learn More							</a>
 													<h3>
 								Incident Response							</h3>
-								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
+								Limit damage and prevent any further damage from happening.							
 													<h3>
-								Bridging the Gap							</h3>
-								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
-													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
+								Proven Methodology							</h3>
+								Our Incident Response service follows the process recommended by the SANS Institute.							
+													<a href="https://www.criticalpathsecurity.com/services/incident-response/">
 								Learn More							</a>
 													<h3>
 								Forensic Analysis							</h3>
