@@ -26,7 +26,7 @@ post_date: 2017-04-14 17:01:32
 									73%
 						Hacks caused by out of date software
 									99%
-		<p>Our Services</p><ul><li>Virtual CISO</li><li>Security Audits<ul><li>DFARS Regulatory Security Audit</li><li>SEC Cybersecurity Readiness Audits</li><li>PCI-DSS</li><li>HIPAA</li><li>Service Organization Control (SOC)</li><li>The EU General Data Protection Regulation (GDPR)</li></ul></li><li>Vulnerability Assessments</li><li>Penetration Testing<ul><li>Web Application Security Assessment</li><li>Product Security Evaluations</li><li>Physical Security Assessment</li><li>Social Engineering</li></ul></li><li>Incident Responses</li><li>Managed Security Services</li><li>Forensic Analysis</li></ul>		
+		<p>Our Services</p>		
 													<h3>
 								Virtual CISO							</h3>
 								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
@@ -44,6 +44,14 @@ post_date: 2017-04-14 17:01:32
 													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
 								Learn More							</a>
 													<h3>
+								Vulnerability Assessments							</h3>
+								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
+													<h3>
+								Bridging the Gap							</h3>
+								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
+													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
+								Learn More							</a>
+													<h3>
 								Penetration Testing							</h3>
 								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
 													<h3>
@@ -53,6 +61,22 @@ post_date: 2017-04-14 17:01:32
 								Learn More							</a>
 													<h3>
 								Managed Security							</h3>
+								Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.							
+													<h3>
+								Improve Your Security Posture							</h3>
+								Critical Path Security provides proactive strategies to protect vital data, systems and infrastructure, ensuring a rapid response to a perceived threat. 							
+													<a href="https://www.criticalpathsecurity.com/services/compliance-audits/">
+								Learn More							</a>
+													<h3>
+								Incident Response							</h3>
+								Cyber-security roles are facing an unprecedented skills shortage, with hundreds of thousands of roles going unfilled...							
+													<h3>
+								Bridging the Gap							</h3>
+								Critical Path Security provides companies with on-demand access to seasoned experts, who develop, implement, and manage information security strategy.							
+													<a href="https://www.criticalpathsecurity.com/managed-security/virtual-ciso/">
+								Learn More							</a>
+													<h3>
+								Forensic Analysis							</h3>
 								Knowing your weakness is as important as knowing your strength. The smallest vulnerability can compromise an entire network.							
 													<h3>
 								Improve Your Security Posture							</h3>
