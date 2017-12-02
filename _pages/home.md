@@ -84,7 +84,7 @@ post_date: 2017-04-14 17:01:32
 													<a href="https://www.criticalpathsecurity.com/services/forensic-analysis/">
 								Learn More							</a>
 						“It has been a pleasure working with Patrick Kelley, and I am still amazed at the excitement and ability of understanding you have with Splunk. You are by far one of the most knowledgeable customers I have had the pleasure to work with.”					
-						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
+						<img src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/man.jpg">
 								<cite>J.H.Splunk</cite>			
 		<img width="1024" height="486" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-300x142.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-768x364.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		
 		<img width="300" height="230" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CEH-300x230.png" alt="" />		
