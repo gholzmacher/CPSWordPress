@@ -83,13 +83,7 @@ post_date: 2017-04-14 17:01:32
 								Get a clear image of a breach to mitigate future risks of repeat occurrences. 							
 													<a href="https://www.criticalpathsecurity.com/services/forensic-analysis/">
 								Learn More							</a>
-						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
-						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
-								<cite>John DoeCEO</cite>			
-						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
-						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
-								<cite>John DoeCEO</cite>			
-						I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.					
+						We contacted Critical Path in the aftermath of a security breach. They were able to identify how the hackers entered our network and what damage they had done. I wish we had called them sooner.					
 						<img src="https://www.criticalpathsecurity.com/wp-content/plugins/elementor/assets/images/placeholder.png">
 								<cite>John DoeCEO</cite>			
 		<img width="1024" height="486" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-300x142.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-768x364.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		
