@@ -83,9 +83,23 @@ post_date: 2017-04-14 17:01:32
 								Get a clear image of a breach to mitigate future risks of repeat occurrences. 							
 													<a href="https://www.criticalpathsecurity.com/services/forensic-analysis/">
 								Learn More							</a>
+						"Pat, I would just like to say thank you. You have just made a complete fool out of a major record label. I cannot thank you enough."					
+								<cite>Matthew GoodUniversal Records</cite>			
 						“It has been a pleasure working with Patrick Kelley, and I am still amazed at the excitement and ability of understanding you have with Splunk. You are by far one of the most knowledgeable customers I have had the pleasure to work with.”					
 						<img src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/man.jpg">
 								<cite>J.H.Splunk</cite>			
+						With special gratitude and intentions to Metta volunteer Patrick Kelley who has been a great support in making these talks available.  Please join us in sending a smile to him from the heart from wherever you are in the world. "We are caught in an inescapable network of mutality, tied in a single garment of destiny." (MLK Jr.)					
+								<cite>Prof. Michael NaglerMetta Center / UC Berkeley</cite>			
+						"Patrick~
+You are absolutely AWESOME! Thank you so much for your help this morning in getting my personal email account set up!
+Again, MUCH THANKS to you. Have a wonderfully winning and Blessed day.					
+								<cite>EJayejayjohnson.com</cite>			
+						Thank you Virginia and Patrick for all your help, we would not be able to do this on our own.					
+								<cite>Ryan Hunsicker PLS, GISPSan Bernardino County Surveyor's Office</cite>			
+						"Well Patrick, I must admit that the site runs just a smidgin faster than it did with *****; that is if you define smidgin as light speed on steroids.  I think I just tabbed through the whole site in less time than it took me to open our home page with *****; and I mean that literally, I really did.  Great job!"					
+								<cite>R. Chatham</cite>			
+						"Patrick, As you know, your services were used on Wednesday for about 5.5 hours. This email is to inform you that we were most pleased with the service that was performed."					
+								<cite>Neal WhittenThe Neal Whitten Group, Inc.</cite>			
 		<img width="1024" height="486" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-300x142.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-768x364.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		
 		<img width="300" height="230" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CEH-300x230.png" alt="" />		
 		<img width="1024" height="278" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CompTIA_NetworkPlus-1024x278.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CompTIA_NetworkPlus-1024x278.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CompTIA_NetworkPlus-300x82.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CompTIA_NetworkPlus-768x209.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CompTIA_NetworkPlus.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />		
