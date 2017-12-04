@@ -86,7 +86,6 @@ post_date: 2017-04-14 17:01:32
 						"Pat, I would just like to say thank you. You have just made a complete fool out of a major record label. I cannot thank you enough."					
 								<cite>Matthew GoodUniversal Records</cite>			
 						“It has been a pleasure working with Patrick Kelley, and I am still amazed at the excitement and ability of understanding you have with Splunk. You are by far one of the most knowledgeable customers I have had the pleasure to work with.”					
-						<img src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/man.jpg">
 								<cite>J.H.Splunk</cite>			
 						With special gratitude and intentions to Metta volunteer Patrick Kelley who has been a great support in making these talks available.  Please join us in sending a smile to him from the heart from wherever you are in the world. "We are caught in an inescapable network of mutality, tied in a single garment of destiny." (MLK Jr.)					
 								<cite>Prof. Michael NaglerMetta Center / UC Berkeley</cite>			
