@@ -41,3 +41,5 @@ New York, NY 10001
 
 Please RSVP to Daria Oterin at
 Daria.Oterin@sentinelgroup.com
+
+<a href="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/roundtable.pdf">Roundtable PDF Announcement</a>
