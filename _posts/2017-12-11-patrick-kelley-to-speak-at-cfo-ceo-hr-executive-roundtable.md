@@ -3,7 +3,7 @@ ID: 689
 post_title: >
   Patrick Kelley to speak at CFO/CEO/HR
   Executive Roundtable
-author: pkelley
+author: Glenn Holzmacher
 post_excerpt: ""
 layout: post
 permalink: >
