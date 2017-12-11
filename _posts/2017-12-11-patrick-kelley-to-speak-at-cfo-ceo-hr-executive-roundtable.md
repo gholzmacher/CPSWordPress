@@ -11,6 +11,14 @@ permalink: >
 published: true
 post_date: 2017-12-11 10:16:23
 ---
+<img class="size-full wp-image-690 alignleft" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/sentinellogo.jpg" alt="" width="574" height="114" />
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <strong>Cybersecurity: It's 2AM. Do you know where your data is?</strong>
 
 Come to speak with our expert:
