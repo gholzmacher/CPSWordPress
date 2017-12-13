@@ -11,9 +11,7 @@ permalink: >
 published: true
 post_date: 2017-12-13 02:50:52
 ---
-<span style="font-weight: 400;">In a few short months Europe's data protection rules will undergo their biggest changes in two decades. Existing policies were created in the 90s when the amount of digital information we create, capture, and store was just a fraction of what exists today.</span>
-
-<span style="font-weight: 400;">The mutually agreed upon European General Data Protection Regulation, or GDPR goes into effect on May 25 2018 and overhauls how businesses handle and process customer information; here are what the changes mean for your company. </span>
+<span style="font-weight: 400;">Europe's data protection rules are about to implement their biggest changes in more than twenty years. Existing policies created in the 90's never contemplated the amount of digital information we create, capture, and store would reach the levels of what exists today. </span><span style="font-weight: 400;">The mutually agreed upon European General Data Protection Regulation, or GDPR goes into effect on May 25 2018 and updates how businesses handle and process customer information; here are what the changes mean for your company. </span>
 
 <span style="font-weight: 400;">GDPR replaces the 1995 data protection directive which current UK law is based on. The new regulation is designed to harmonize data privacy laws across Europe giving greater protection and rights to individuals. GDPR encompasses three big changes for the public and businesses that handle personal information. </span>
 
