@@ -11,10 +11,12 @@ permalink: >
 published: true
 post_date: 2017-12-19 20:19:24
 ---
+
 	<p><img src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/amtrak-train-derailed.jpg" alt="" width="992" height="744" /></p>
 <p>The derailment of Amtrak Cascades train number 501 drew headlines around the world, on account of the three lives lost and stunning visual of train cars dangling above an interstate in Washington. The train crashed on its maiden run with passengers aboard, on a recently-rebuilt stretch of track south of Tacoma.</p>
 <p>The Washington State Department of Transportation noted that PTC equipment is scheduled for installation and activation on the Port Defiance Bypass corridor used by Cascades 501 in March of 2018. With my personal involvement in researching and testing PTC, I can state that it would've had a significant impact in preventing this accident.</p>
 <p>PTC is the latest generation of equipment, technology and procedures that can automatically bring a moving train to a controlled halt and prevent traffic accidents such as these. The technology dates back before automatic train control features were introduced in the 1950s, that Amtrak still uses today. Unfortunately, only 49% of Amtrak locomotives have operable PTC in place.</p>
+<p><img src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/ptc-1024x630.png" alt="" width="1024" height="630" /></p>
 <p>So what is PTC and where did it originate?</p>
 <p>PTC integrates modern tools, such as GPS-based location monitoring, cellular, wi-fi and radio networks, and computer coordination that allows signals, switches and crossing gates to communicate with trains, regardless of state of motion. It prevents situations such as 501 running 50 mph over the limit of the curve in which it derailed.</p>
 <p>PTC gained more focus after a head-on crash between a freight and passenger train near Los Angeles in the 2000's that left 25 dead. The outcome was Congress enacting the Rail Safety Improvement Act. This act requires all major U.S. rail lines to implement Positive Train Control. Unfortunately, Congress didn't address the estimated $22.5 billion dollar price tag. This makes PTC the largest regulatory expenditure to ever hit the rail industry.</p>
