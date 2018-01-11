@@ -1,6 +1,6 @@
 ---
 ID: 728
-post_title: 'GDPR &#8211; Data Security and Breach Notification'
+post_title: 'GDPR &#8211; Breach Notification and Artificial Intelligence'
 author: pkelley
 post_excerpt: ""
 layout: post
