@@ -1,7 +1,7 @@
 ---
 ID: 782
 post_title: 'Wanted: Women to Work in Male-Dominated Fields'
-author: Glenn Holzmacher
+author: Virginia Kelley
 post_excerpt: ""
 layout: post
 permalink: >
