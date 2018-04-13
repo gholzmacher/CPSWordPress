@@ -17,6 +17,7 @@ post_date: 2018-04-13 19:05:44
 <p dir="ltr">Missing an intrusion on your network is probably not because you don't have enough log data. It’s likely that you are missing the necessary visibility into network traffic or it is delivered in a manner that’s not actionable.</p>
 <p dir="ltr">Platforms like Bro-IDS can help solve those problems by not relying on static, atomic indicators to generate alerts.  Bro looks at traffic from a contextual point-of-view and alerts on correlated indicators of compromise.<br /><br />Critical Path Security has extensive experience in consulting with organizations looking to go farther that static analysis will allow.</p>
 <p dir="ltr">Want a more comprehensive solution?  We have an extensive partnership with PacketSled, the industry leader in commercial Bro-IDS platforms.</p>
+<p dir="ltr"><a href="https://www.criticalpathsecurity.com/wp-content/uploads/2018/04/packetsled.jpg"><img src="https://www.criticalpathsecurity.com/wp-content/uploads/2018/04/packetsled-300x90.jpg" alt="" width="167" height="50" /></a></p>
 <p>&nbsp;</p>
-<p>Check Out our Intrusion Detection Library on  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png" width="65" height="17" /></p>
+<p>Check Out our Intrusion Detection Library on  <a href="https://github.com/CriticalPathSecurity"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png" width="65" height="17" /></a></p>
 <pre>Bro and the Bro Logo are Trademark and Copyright of The Bro Project.</pre>
