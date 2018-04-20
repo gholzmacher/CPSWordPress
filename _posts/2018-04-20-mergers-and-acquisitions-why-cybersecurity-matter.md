@@ -1,6 +1,6 @@
 ---
 ID: 867
-post_title: 'Mergers and Acquisitions &#8211; Why CyberSecurity Matter!'
+post_title: 'Mergers and Acquisitions &#8211; Why CyberSecurity Matters!'
 author: pkelley
 post_excerpt: ""
 layout: post
