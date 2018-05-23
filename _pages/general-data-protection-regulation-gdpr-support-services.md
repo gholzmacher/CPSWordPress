@@ -52,6 +52,10 @@ post_date: 2018-05-21 20:13:13
 <li><b>Specialized expertise: </b>our team members are specialists in a multitude of platforms. We can help you attain the visibility and response time required to prevent intrusions and mitigate the effects of security events.</li>
 </ul>
 <p>By proactively detecting threats and conducting detailed incident response investigations, Critical Path Security helps organizations achieve GDPR compliance by minimizing the risk of a breach and in the event of a compromise, helping to fulfill the strict reporting requirements.</p>
+		<h3><a href="https://www.criticalpathsecurity.com/wp-content/uploads/2018/05/Critical-Path-Security-GDPR.pptx.pdf" target="_blank"></a></h3>		
+			<a href="https://www.criticalpathsecurity.com/wp-content/uploads/2018/05/Critical-Path-Security-GDPR.pptx.pdf" target="_blank" role="button" rel="noopener" >
+						Critical Path Security - GDPR
+					</a>
 		<h3>Ready to find out more?</h3>
 		<p>Drop us a line today for more information!</p>
 			<a href="https://www.criticalpathsecurity.com/contact/" target="_self" role="button">
