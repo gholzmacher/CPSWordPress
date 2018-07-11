@@ -8,12 +8,11 @@ permalink: https://www.criticalpathsecurity.com/
 published: true
 post_date: 2017-04-14 17:01:32
 ---
-
-		<p>Protect Your Assets</p><p>Critical Path Security</p>		
-			<a href="/services/vulnerability-assessment/">
+<p>Protect Your Assets</p><p>Critical Path Security</p>		
+			<a href="/services/vulnerability-assessment/" role="button">
 						Vulnerability Assessment
 					</a>
-			<a href="/services/incident-response/">
+			<a href="/services/incident-response/" role="button">
 						Incident Response
 					</a>
 			<h2>Democratizing Information Security</h2>		
@@ -99,9 +98,9 @@ Again, MUCH THANKS to you. Have a wonderfully winning and Blessed day.
 								<cite>R. Chatham</cite>			
 						"Patrick, As you know, your services were used on Wednesday for about 5.5 hours. This email is to inform you that we were most pleased with the service that was performed."					
 								<cite>Neal WhittenThe Neal Whitten Group, Inc.</cite>			
-		<img width="1024" height="486" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-300x142.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-768x364.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		
-		<img width="300" height="230" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CEH-300x230.png" alt="" />		
-		<img width="1024" height="323" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-1024x323.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-1024x323.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-300x95.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-768x242.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />		
-		<img width="250" height="172" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/CCNA-Logo.jpg" alt="" />		
-		<img width="208" height="154" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/JNCIA.png" alt="" />		
-		<img src="https://www.criticalpathsecurity.com/wp-content/uploads/elementor/thumbs/certs_merged-niq1wp47u8hvytb15h2myppkr4k1drjt8vg4sy3tb4.jpg" title="certs_merged" alt="certs_merged" />
+										<img width="1024" height="486" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-300x142.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-768x364.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="300" height="230" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CEH-300x230.png" alt="" />											
+										<img width="1024" height="323" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-1024x323.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-1024x323.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-300x95.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-768x242.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="250" height="172" src="https://www.criticalpathsecurity.com/wp-content/uploads/2018/07/CCNA-Security-Logo.png" alt="" />											
+										<img width="208" height="154" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/JNCIA.png" alt="" />											
+										<img src="https://www.criticalpathsecurity.com/wp-content/uploads/elementor/thumbs/certs_merged-niq1wp47u8hvytb15h2myppkr4k1drjt8vg4sy3tb4.jpg" title="certs_merged" alt="certs_merged" />
