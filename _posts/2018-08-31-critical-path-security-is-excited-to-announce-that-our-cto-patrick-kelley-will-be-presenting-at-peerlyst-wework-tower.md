@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-31 10:30:23
 ---
-<img title="peerlyst_speaking_engagement" src="https://www.criticalpathsecurity.com/wp-content/uploads/2018/08/peerlyst_speaking_engagement.png" alt="peerlyst_speaking_engagement" width="1200" height="627" />
 
-Critical Path Security is excited to announce that our CTO, Patrick Kelley, will be presenting at Peerlyst - WeWork Tower this year!
-
-The topic will be Why Cybersecurity Matters in M&amp;A's.
+				<img src="https://www.criticalpathsecurity.com/wp-content/uploads/2018/08/peerlyst_speaking_engagement.png" alt="peerlyst_speaking_engagement" itemprop="image" height="627" width="1200" title="peerlyst_speaking_engagement"  />
+	<p>Critical Path Security is excited to announce that our CTO, Patrick Kelley, will be presenting at Peerlyst - WeWork Tower this year!</p>
+<p>The topic will be Why Cybersecurity Matters in M&amp;A's.</p>
