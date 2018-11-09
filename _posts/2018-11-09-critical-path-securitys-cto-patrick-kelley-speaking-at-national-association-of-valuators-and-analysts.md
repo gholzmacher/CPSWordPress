@@ -4,7 +4,7 @@ post_title: >
   Critical Path Security’s CTO, Patrick
   Kelley, speaking at National Association
   of Valuators and Analysts!
-author: pkelley
+author: Glenn Holzmacher
 post_excerpt: ""
 layout: post
 permalink: >
