@@ -3,7 +3,7 @@ ID: 1104
 post_title: >
   Critical Path Security’s CTO, Patrick
   Kelley, speaking at National Association
-  of Valuators and Analysts
+  of Valuators and Analysts!
 author: pkelley
 post_excerpt: ""
 layout: post
