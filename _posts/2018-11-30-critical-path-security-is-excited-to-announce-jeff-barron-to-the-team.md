@@ -2,7 +2,7 @@
 ID: 1118
 post_title: >
   Critical Path Security is excited to
-  announce Jeff Barron to the team!
+  welcome Jeff Barron to the team!
 author: pkelley
 post_excerpt: ""
 layout: post
