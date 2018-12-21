@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-21 20:13:13
 ---
-
+<!-- wp:fl-builder/layout -->
 				<img src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/GDPR.jpg" alt="GDPR" itemprop="image" height="330" width="991" title="GDPR"  />
 		<h3>Why it's important to have a trusted advisor</h3>		
 			<p>Set for enforcement on May 26, 2018, the GDPR supersedes the Data Protection Act 1998 in the UK and the Data Protection Directive 1995 in the EU; to expand the requirements of storing personal data, improve governance and impose more stringent sanctions on organizations that fail to secure individual's data.</p>
@@ -61,3 +61,4 @@ post_date: 2018-05-21 20:13:13
 			<a href="https://www.criticalpathsecurity.com/contact/" target="_self" role="button">
 						Click Here
 					</a>
+<!-- /wp:fl-builder/layout -->
