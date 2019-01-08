@@ -1,6 +1,6 @@
 ---
 ID: 156
-post_title: Protect Your Assets
+post_title: ""
 author: pkelley
 post_excerpt: ""
 layout: page
@@ -8,12 +8,16 @@ permalink: https://www.criticalpathsecurity.com/
 published: true
 post_date: 2017-04-14 17:01:32
 ---
+<!-- wp:cover {"url":"https://www.criticalpathsecurity.com/wp-content/uploads/2018/07/wallpaper_blue_digital.jpg","id":1001} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url(https://www.criticalpathsecurity.com/wp-content/uploads/2018/07/wallpaper_blue_digital.jpg)"><p class="wp-block-cover-text">Protect Your Assets</p></div>
+<!-- /wp:cover -->
+
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Critical Path Security’s Cybersecurity team is dedicated to helping midsize companies increase their awareness around information security issues affecting their business and enhancing their security posture to secure and protect sensitive assets.  Combining the world’s most recognized security experts with supporting technologies, Critical Path Security provides scalable, responsive solutions that address current information security challenges while being prepared to value to tackle future growth and industry volatility.</p>
+<p><strong>Critical Path Security’s</strong> Cybersecurity team is dedicated to helping midsize companies increase their awareness around information security issues affecting their business and enhancing their security posture to secure and protect sensitive assets.  Combining the world’s most recognized security experts with supporting technologies, Critical Path Security provides scalable, responsive solutions that address current information security challenges while being prepared to value to tackle future growth and industry volatility.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
