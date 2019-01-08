@@ -8,10 +8,6 @@ permalink: https://www.criticalpathsecurity.com/
 published: true
 post_date: 2017-04-14 17:01:32
 ---
-<!-- wp:cover {"url":"https://www.criticalpathsecurity.com/wp-content/uploads/2018/07/wallpaper_blue_digital.jpg","id":1001} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(https://www.criticalpathsecurity.com/wp-content/uploads/2018/07/wallpaper_blue_digital.jpg)"><p class="wp-block-cover-text">Protect Your Assets</p></div>
-<!-- /wp:cover -->
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
