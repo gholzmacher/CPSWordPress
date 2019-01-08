@@ -25,7 +25,6 @@ post_date: 2017-04-14 17:01:32
 									73%
 						Hacks caused by out of date software
 									99%
-			<h2>Our Services</h2>		
 										<img width="1024" height="486" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-1024x486.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-300x142.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg-768x364.png 768w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/ISC²_logo_vectorized.svg.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 										<img width="300" height="230" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/11/CEH-300x230.png" alt="" />											
 										<img width="1024" height="323" src="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-1024x323.png" alt="" srcset="https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-1024x323.png 1024w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-300x95.png 300w, https://www.criticalpathsecurity.com/wp-content/uploads/2017/12/securityplus-768x242.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
